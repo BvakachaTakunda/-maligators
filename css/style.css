@@ -208,16 +208,19 @@ body{
   
   .email-subscribe button {
     position: absolute;
-    right: 0.1;
+    right: 4em;
     border: none;
     background-color: rgb(57, 103, 253);
-    padding: 8px 15px;
-    border-radius: 50%;
+    padding: 8px 12px;
+    border-radius: 50px;
     cursor: pointer;
     transform: translateX(50%);
   }
+  .email-subscribe button a{
+    font-size: 15px;
+  }
   
-  .email-subscribe button img {
+ .email-subscribe button img {
     width: 20px;
     height: 20px;
   }
