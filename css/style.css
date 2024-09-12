@@ -38,7 +38,7 @@ body{
           background-image: url(../assets/images/2024_07_08_13_11_IMG_1032.JPG);
       }
   
-      @media(max-width:900px){
+      @media(max-width:389px){
         background-position: center;
         background-size: contain;
         background-attachment: fixed;
